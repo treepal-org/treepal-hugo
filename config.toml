@@ -46,7 +46,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [Author]
   name = "Mika Software Corporation"
-  website = "treepal.org"
+  website = "https://mikasoftware.com"
   email = "bart@mikasoftware.com"
   # facebook = "username"
   github = "treepal-org"
