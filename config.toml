@@ -1,4 +1,4 @@
-baseurl = "https://treepal.github.io"
+baseurl = "https://treepal.org"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
 title = "Beautiful Hugo"
